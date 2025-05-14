@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/codelion-dynamic-shell-server-badge.png)](https://mseep.ai/app/codelion-dynamic-shell-server)
+
 # Dynamic Shell Command MCP Server
 
 A Model Context Protocol (MCP) server that enables secure execution of shell commands with a dynamic approval system. This server allows running arbitrary commands while maintaining security through user approval and audit logging.
